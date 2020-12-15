@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1.intro {
+    color: purple;
+    margin-left: 20px;
+  }
+  li {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 75px;
+    margin-left: 40px;
+  }
+  #Directions {
+    color: blue;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-bottom: 25px;
+    padding-left: 40px;
+    }
+
+img{
+ width: 50%;
+ height: auto;
+}
+
+article {
+  color: red
+}
+
+
